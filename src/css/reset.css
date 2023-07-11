@@ -1,0 +1,11 @@
+/*   Esse arquivo reset.css é para limpar os estilos que vem por padrão no navegador */ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
